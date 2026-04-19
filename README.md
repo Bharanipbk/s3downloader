@@ -23,8 +23,8 @@ A modern, high-performance desktop application built with Python for bulk downlo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/s3-bucket-downloader.git
-   cd s3-bucket-downloader
+   git clone https://github.com/Bharanipbk/s3downloader.git
+   cd s3downloader
    ```
 
 2. **Install dependencies**:
