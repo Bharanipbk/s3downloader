@@ -51,13 +51,7 @@ A modern, high-performance desktop application built with Python for bulk downlo
 > [!CAUTION]
 > **Never commit your AWS credentials to Git.** This application is designed for you to enter them locally. For enhanced security, ensure you follow AWS best practices for IAM user permissions (least privilege).
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 ---
 *Built with ❤️ using Python, CustomTkinter, and Boto3.*
+
