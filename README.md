@@ -2,8 +2,6 @@
 
 A modern, high-performance desktop application built with Python for bulk downloading files from AWS S3 buckets. Featuring a sleek, dark-themed interface and real-time progress tracking.
 
-![S3 Downloader Preview](https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/images/customtkinter_logo.png) *(Note: Replace with your own screenshot!)*
-
 ## ✨ Features
 
 - **Bulk Download**: Sync entire S3 buckets to your local machine with a single click.
